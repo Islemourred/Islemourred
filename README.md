@@ -1,5 +1,8 @@
 <h1>Hi 👋, I'm Islem Charaf Eddine</h1>
 <p>I'm a final-year computer science student at the Higher School of Computer Science in Sidi Bel Abbès. I’m focusing on artificial intelligence and data science as part of my studies. I also enjoy building websites and mobile apps, especially working on the design and user experience. I like combining tech and creativity to create things that are both smart and easy to use.</p>
+<p>📫 How to reach me islemcharafeddine85@gmail.com</p>
+
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
